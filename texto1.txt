@@ -1,3 +1,3 @@
-Se agregó está línea12:12 14/09/2021
-
 Línea nueva agregada desde el local el 20 de setiembre
+
+Estas líneas se han agragado desde el GitHub(remto) para luego actulaizar al repositorio local 20 de setiembre
