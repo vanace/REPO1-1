@@ -1,0 +1,4 @@
+Mi primer documento en el repositorio REPOS
+BIENVENIDOS A UN CURSO BREVE INTRODUCTORIO DE GIT
+
+seguimos probando GIT
