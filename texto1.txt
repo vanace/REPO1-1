@@ -1,3 +1,5 @@
 Línea nueva agregada desde el local el 20 de setiembre
 
 Estas líneas se han agragado desde el GitHub(remto) para luego actulaizar al repositorio local 20 de setiembre
+
+Cambio propuesto desde la cuenta de vanace para unalmdei
